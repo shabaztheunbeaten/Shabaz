@@ -1,6 +1,7 @@
  ✨ Hi, I am Arescim.
 
 <h2 align="center">
+ 
  ```js
 class Arescim {
 constructor(options) {
