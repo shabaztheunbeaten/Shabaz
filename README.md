@@ -1,18 +1,6 @@
  ✨ Hi, I am Arescim.
 
 <h2 align="center">
- 
- ```js
-class Arescim {
-constructor(options) {
-this.name = "Emir",
-this.age = 19,
-this.discord = "Arescim.",
-this.discordId = "852829781132967997"
-  };
-}
-module.exports = Arescim;
-```
 
   <p align=center>
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Arescim&data=followers,repositories,stars,commits&theme=darkmode" alt="">
