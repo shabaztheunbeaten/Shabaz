@@ -1,4 +1,8 @@
 <h1 align="center"> </🌼Arescim>
+ <div align="center">
+    <a
+href="https://discord.com/users/852829781132967997" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852829781132967997"></a>
+</div>
  <img href="https://discord.com/users/1016790573186818119" src="https://readme-typing-svg.herokuapp.com/?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Arescim." alt="Arescim Was Here" />
 </h1>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media%27s" alt="Typing SVG" /></h2>
