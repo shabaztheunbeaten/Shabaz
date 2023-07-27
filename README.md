@@ -1,6 +1,7 @@
  ✨ Hi, I am Arescim.
 
-```js
+<h2 align="center">
+ ```js
 class Arescim {
 constructor(options) {
 this.name = "Emir",
@@ -11,8 +12,6 @@ this.discordId = "852829781132967997"
 }
 module.exports = Arescim;
 ```
-
-<h2 align="center">
 
   <p align=center>
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Arescim&data=followers,repositories,stars,commits&theme=darkmode" alt="">
