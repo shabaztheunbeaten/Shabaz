@@ -3,7 +3,7 @@
 <h2 align="center">
 
   <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=arescim.&data=followers,repositories,stars,commits&theme=darkmode" alt="">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Arescim.&data=followers,repositories,stars,commits&theme=darkmode" alt="">
   </p>
 </a>
 <h2 align="center">
