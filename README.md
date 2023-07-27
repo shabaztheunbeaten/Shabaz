@@ -5,7 +5,7 @@
 <p align="center">
  <a align="center" href="https://discord.com/users/852829781132967997" target"blank"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white%22%3E</a>
 <div align="center">
-    <a href="https://discord.com/users/835405542985433118" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/835405542985433118"></a>
+    <a href="https://discord.com/users/852829781132967997" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852829781132967997"></a>
 </div>                             
   <a align="center" href="https://www.github.com/Arescim" target"blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white%22%3E</a>
 <a href="https://top.gg/bot/1028383658970726480%22%3E<img src="https://top.gg/api/widget/servers/854463472318677022.svg%22%3E</a>
