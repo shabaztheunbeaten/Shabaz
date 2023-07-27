@@ -40,6 +40,5 @@
 <h2 align="center">
  <a href="https://discord.com/users/852829781132967997"><img  width="400px" src="https://luppufy-api.onrender.com/member/852829781132967997"></a> 
 <p align="center">
- 
    <img src="https://github-readme-stats.vercel.app/api?username=Arescim&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescim&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
