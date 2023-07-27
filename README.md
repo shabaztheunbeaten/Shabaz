@@ -1,5 +1,17 @@
  ✨ Hi, I am Arescim.
 
+ ```js
+class Arescim {
+constructor(options) {
+this.name = "Emir",
+this.age = 19,
+this.discord = "Arescim.",
+this.discordId = "852829781132967997"
+  };
+}
+module.exports = Arescim;
+```
+
 <h2 align="center">
 
   <p align=center>
