@@ -7,7 +7,7 @@
   </p>
 </a>
 <h2 align="center">
-<img src="https://komarev.com/ghpvc/?username=arescim.&color=dc143c"/>
+<img src="https://komarev.com/ghpvc/?username=Arescim.&color=dc143c"/>
 </div>
 
 <div align="center">
