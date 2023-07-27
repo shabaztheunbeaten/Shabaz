@@ -1,4 +1,4 @@
- ✨ Hi, I am Arescim.
+# ✨ Hi, I am Arescim.
 
  ```js
 class Arescim {
