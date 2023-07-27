@@ -32,7 +32,7 @@ module.exports = Arescim;
     <a href="https://discord.com/users/852829781132967997" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a align="center" href="https://www.instagram.com/arescim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://github.com/Arescim" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://discord.gg/clydev" target="_blank"><img src="https://shields.io/badge/Discord Sunucularım-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.gg/clydev" target="_blank"><img src="https://shields.io/badge/Discord Sunucum-111111.svg?&style=for-the-badge"></a>
     </div>
 
 ## 💻 Technologies
