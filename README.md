@@ -21,10 +21,10 @@
     <a align="center" href="https://www.instagram.com/arescim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://github.com/Arescim" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.npmjs.com/~TheMacDeveloper" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/botstory" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.gg/clydev" target="_blank"><img src="https://shields.io/badge/Discord Sunucularım-111111.svg?&style=for-the-badge"></a>
     </div>
 
-## 💻 Technologies I Use
+## 💻 Technologies
 
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
@@ -38,7 +38,3 @@
 </br>
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
-
-<h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:TheMacDeveloper?theme=rule34">
-<br> </br>
