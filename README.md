@@ -40,8 +40,6 @@
 <h2 align="center">
 <h2 align="center">
  <a href="https://discord.com/users/928259219038302258"><img  width="400px" src="https://luppufy-api.onrender.com/member/928259219038302258?border=f0f0f0"></a>
- </h2>
-
-<p align="center">
+</h2>
    <img src="https://github-readme-stats.vercel.app/api?username=Bes-js&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bes-js&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
