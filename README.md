@@ -29,9 +29,9 @@ module.exports = Shabaz;
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/1044655298268369047" target="_blank"><img src="https://shields.io/badge/Shabaz?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/1044655298268369047" target="_blank"><img src="https://shields.io/badge/discord?&style=for-the-badge&logo=discord"></a>
     <a align="center" href="https://www.instagram.com/hasanxr_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/shabaztheunbeaten" target="_blank"><img src="https://shields.io/badge/Shabaz?&style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/shabaztheunbeaten" target="_blank"><img src="https://shields.io/badge/github?&style=for-the-badge&logo=github"></a>
     <a href="https://discord.gg/" target="_blank"><img src="https://shields.io/badge/Discord Sunucum-111111.svg?&style=for-the-badge"></a>
     </div>
 
