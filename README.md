@@ -1,15 +1,15 @@
-# ✨ Hi, I am Arescim.
+# ✨ Hi, I am Shabaz.
 
  ```js
-class Arescim {
+class Shabaz {
 constructor(options) {
-this.name = "Emir",
+this.name = "Kadir",
 this.age = 19,
-this.discord = "Arescim.",
-this.discordId = "852829781132967997"
+this.discord = "$habaz.",
+this.discordId = "1044655298268369047"
   };
 }
-module.exports = Arescim;
+module.exports = Shabaz;
 ```
 
 <h2 align="center">
@@ -23,16 +23,16 @@ module.exports = Arescim;
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/852829781132967997" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/852829781132967997"></a>
+    <a href="https://discord.com/users/1044655298268369047" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/1044655298268369047"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/852829781132967997" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a align="center" href="https://www.instagram.com/arescim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/Arescim" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://discord.gg/clydev" target="_blank"><img src="https://shields.io/badge/Discord Sunucum-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.com/users/1044655298268369047" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a align="center" href="https://www.instagram.com/hasanxr_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://github.com/shabaztheunbeaten" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://discord.gg/" target="_blank"><img src="https://shields.io/badge/Discord Sunucum-111111.svg?&style=for-the-badge"></a>
     </div>
 
 ## 💻 Technologies
@@ -50,5 +50,5 @@ module.exports = Arescim;
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 <h2 align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Arescim&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api?username=$habaz&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescim&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
